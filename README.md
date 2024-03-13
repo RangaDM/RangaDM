@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ranga Dananjaya</h1>
+<h3 align="center">BSc (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <h3 align="center">Full-Stack developer from Sri Lanka. I'm passionate about tech 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangadm&label=Profile%20views&color=0e75b6&style=flat" alt="rangadm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangadm" alt="rangadm" /></a> </p>
-
 - 💻 Discover my official website [RangaDM - Official](https://rangadm.github.io/portfolio/)
-
 - 📝 I regularly write articles on [https://mantrass.wordpress.com/](https://mantrass.wordpress.com/)
-
 - 📫 How to reach me **rangamaithreepala@gmail.com**
+
+---
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app?username=PramithaMJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +23,8 @@
 <a href="https://instagram.com/ranga_dananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranga_dananjaya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ranga_4062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ranga_4062" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -31,15 +38,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
@@ -47,15 +46,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="ansible logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -76,10 +69,6 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="fedora logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
   <img width="12" />
@@ -115,8 +104,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nuget/004880" height="40" alt="nuget logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
@@ -127,25 +114,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pycharm/000000" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vagrant/1868F2" height="40" alt="vagrant logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
@@ -156,6 +133,11 @@
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangadm&show_icons=true&locale=en&layout=compact" alt="rangadm" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rangadm&show_icons=true&locale=en" alt="rangadm" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RangaDM&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" style="margin-right: 10px;" />
+  <img src="https://streak-stats.demolab.com?user=RangaDM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="margin-right: 10px;" />
+</div>
+
