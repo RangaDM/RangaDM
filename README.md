@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangadm&label=Profile%20views&color=0e75b6&style=flat" alt="rangadm" /> </p>
 
 - 💻 Discover my official website [RangaDM - Official](https://rangadm.github.io/portfolio/)
-- 📝 I regularly write articles on [https://mantrass.wordpress.com/](https://mantrass.wordpress.com/)
+- 📝 I regularly write articles on [https://mantrass.wordpress.com/](https://mantrass.wordpress.com/) and [medium](https://medium.com/@rangamaithreepala)
 - 📫 How to reach me **rangamaithreepala@gmail.com**
 
 ---
