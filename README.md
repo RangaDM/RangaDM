@@ -141,3 +141,10 @@
   <img src="https://streak-stats.demolab.com?user=RangaDM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="margin-right: 10px;" />
 </div>
 
+---
+
+***Support My Work***
+
+***If you appreciate my work, you can support me by buying me a coffee. Your generosity is greatly appreciated!***
+
+<a href="https://buymeacoffee.com/rangadm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
