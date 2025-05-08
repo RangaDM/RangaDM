@@ -47,7 +47,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
-  <img src="https://cdn.simpleicons.org/gnu-bash/4EAA25" height="40" alt="shell logo" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cplusplus logo" />
@@ -78,7 +77,6 @@
 
 <h3 align="left">📚 Others:</h3>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/agile/FF0000" height="40" alt="agile logo" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
   <img src="https://cdn.simpleicons.org/slack/4A154B" height="40" alt="slack logo" />
 </div>
