@@ -73,15 +73,6 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
 </div>
 
-<br/>
-
-<h3 align="left">📚 Others:</h3>
-<div align="left">
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
-  <img src="https://cdn.simpleicons.org/slack/4A154B" height="40" alt="slack logo" />
-</div>
-
-
 
 ---
 
