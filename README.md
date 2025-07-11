@@ -73,15 +73,6 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
 </div>
 
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RangaDM&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" style="margin-right: 10px;" />
-  <img src="https://streak-stats.demolab.com?user=RangaDM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="margin-right: 10px;" />
-</div>
-
 ---
 
 ***Support My Work***
