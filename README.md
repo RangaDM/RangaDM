@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranga Dananjaya</h1>
 <h3 align="center">BSc (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
-<h3 align="center">Full-Stack developer from Sri Lanka. I'm passionate about tech 😎</h3>
+<h3 align="center">Cloud & DevOps Engineer from Sri Lanka, passionate about building scalable systems 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangadm&label=Profile%20views&color=0e75b6&style=flat" alt="rangadm" /> </p>
 
@@ -12,6 +12,16 @@
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app?username=PramithaMJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
