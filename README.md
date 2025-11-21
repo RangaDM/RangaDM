@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ranga Dananjaya</h1>
-<h3 align="center">BSc (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
-<h3 align="center">Cloud & DevOps Engineer from Sri Lanka, passionate about building scalable systems 🚀</h3>
+<h1 align="center">Hi 👋, I'm <strong>Ranga Dananjaya</strong></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rangadm&label=Profile%20views&color=0e75b6&style=flat" alt="rangadm" /> </p>
+<h3 align="center">BSc (Hons) Computer Engineering (UG) — University of Ruhuna 🇱🇰</h3>
+<h3 align="center">Cloud & DevOps Engineer | Passionate about scalable systems 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rangadm&label=Profile+Views&color=0e75b6&style=flat" alt="rangadm" />
+</p>
+
+---
 
 - 💻 Discover my official website [RangaDM - Official](https://rangadm.github.io/portfolio/)
 - 📝 I regularly write articles on [mantrass](https://mantrass.wordpress.com/) and [medium](https://medium.com/@rangamaithreepala)
 - 📫 How to reach me **rangamaithreepala@gmail.com**
-
----
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app?username=PramithaMJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ---
 
